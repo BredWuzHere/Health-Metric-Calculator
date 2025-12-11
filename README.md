@@ -38,8 +38,8 @@ It features a custom-built **Theme Engine** that interpolates colors for a smoot
 Interface
 
 <div align="center">
-  <img src="screenshots/dashboard_light.png" alt="Light Mode Dashboard" width="45%">
-  <img src="screenshots/dashboard_dark.png" alt="Dark Mode Dashboard" width="45%">
+  <img src="screenshots/dashboard_light.png" alt="Light Mode Dashboard" width="35%">
+  <img src="screenshots/dashboard_dark.png" alt="Dark Mode Dashboard" width="35%">
 </div>
 
 ---
