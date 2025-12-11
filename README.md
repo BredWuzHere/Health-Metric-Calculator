@@ -125,7 +125,7 @@ About
 
 Project: CS121 Advanced Computer Programming  
 Institution: Batangas State University (BSU)  
-Developer: [Your Name/BredWuzHere]
+Developer: [Brendan Roy Sales/BredWuzHere]
 
 License
 This project is open source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
